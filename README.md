@@ -12,3 +12,5 @@ not		deception		waste
 o	Describe yourself
 #	Highlight 3 values
 #push to github for new commit
+Timeboxing concept :
+Do certain things at a certain time and at no other Time
