@@ -15,3 +15,4 @@ o	Describe yourself
 Timeboxing concept :
 Do certain things at a certain time and at no other Time
 sometimes however you need to be flexible
+Use online apps/sites to help you manage your time/tasks
