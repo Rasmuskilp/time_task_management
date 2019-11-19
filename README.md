@@ -14,3 +14,4 @@ o	Describe yourself
 #push to github for new commit
 Timeboxing concept :
 Do certain things at a certain time and at no other Time
+sometimes however you need to be flexible
