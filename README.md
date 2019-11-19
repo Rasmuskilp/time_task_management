@@ -11,3 +11,4 @@ not		deception		waste
 •	Profiles
 o	Describe yourself
 #	Highlight 3 values
+#push to github for new commit
